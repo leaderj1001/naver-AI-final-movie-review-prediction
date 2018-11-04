@@ -28,7 +28,7 @@
 
 # Model
 charactor level embedding + Multi layer CNN + FullyConnected Layer
-14위
+(14위)
 
 ## License
 ```
